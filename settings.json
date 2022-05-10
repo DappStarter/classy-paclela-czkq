@@ -1,0 +1,13 @@
+{
+    "name": "Hobo Game",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/file_storage/core-sia": true,
+        "/category/file_storage/core-sia/mode": "single",
+        "/category/collection/core-entity": true
+    }
+}
